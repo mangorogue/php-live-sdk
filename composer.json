@@ -1,5 +1,5 @@
 {
-    "name": "orange/live-sdk",
+    "name": "orange-shadow/live-sdk",
     "description": "a live sdk build by php",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "orange",
+            "name": "orangeShadow",
             "email": "var@example.com"
         }
     ],
