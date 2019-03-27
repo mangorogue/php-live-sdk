@@ -290,7 +290,7 @@ class ClientUtil
         //格式化响应
         $response = [
             'code' => $code,
-            'message' => $code,
+            'message' => $message,
             'data' => $data,
         ];
             //对称加密对响应参数加密
